@@ -1,4 +1,4 @@
-_# problems-lastdigitfactorial
+# problems-lastdigitfactorial
 
 Question:
 
