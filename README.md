@@ -12,6 +12,10 @@ Ouput Description:
 
 Print the the last digit of the factroial of N and the last digit should be greater than 0(Ignore Tailing Zeros)
 
+Hints:
+
+Separate the last digit from the factorial of N(Ignore Trailing Zeros)
+
 Sample Input:
 
 5
