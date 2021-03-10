@@ -24,7 +24,7 @@ Sample Output:
 
 2
 
-Explanantion:
+Explanation:
 
 The factorial of 5, i.e., 5! is 120(5*4*3*2*1), after ignoring trailing zero, the last digit is 2, so the output is 2
 
