@@ -9,7 +9,7 @@ The first line contains an integer N (1<=N<=10^20).
 
 Ouput Description:
 
-Print the the last digit of the factroial of N and the last digit should be greater than 0(Ignore Tailing Zeros)
+Print the the last digit of the factroial of N and the last digit should be greater than 0(Ignore Tailing Zeros).
 
 Hints:
 
